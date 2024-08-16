@@ -11,7 +11,7 @@ Monitoring, yani izleme, BT sistemlerinin, uygulamaların ve altyapının perfor
 
 
 ## Ulaşabileceğiniz Belgeler
-- [LXD Container nedir? ve Kurulumu](https://github.com/burakherdogan/monitoring "LXD Container nedir? ve Kurulumu")
+- [LXD Container nedir? ve Kurulumu](https://github.com/Burakherdogan/monitoring/blob/main/Documents/lxd_container_kurulum.md "LXD Container nedir? ve Kurulumu")
 - [LXD Ubuntu 24.04 VM-Container Kurulumu](https://github.com/burakherdogan/monitoring "LXD Ubuntu VM-Container Kurulumu")
 - [LXD Debian 12 (bookworm) VM-Container Kurulumu](https://github.com/burakherdogan/monitoring "LXD Debian VM-Container Kurulumu")
 - [LXD AlmaLinux 9.4 VM-Container Kurulumu](https://github.com/burakherdogan/monitoring "LXD AlmaLinux 9.4 VM-Container Kurulumu")
