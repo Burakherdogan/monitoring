@@ -43,12 +43,12 @@ Snap üzerinden elde edilmesidir.
 ### Snap KURULUM:
 
 - Debian, Ubuntu, Kubuntu, için yazılacak komutlar.
-'''
+```
 sudo apt update
 sudo apt install snapd
-'''
+```
 - Versiyon güncellemek için yazılacak komut.
-'''
+```
 sudo snap install snapd
-'''
+```
 
