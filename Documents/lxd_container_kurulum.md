@@ -25,4 +25,30 @@ servis kapatılıp tekrar başlatılırsa bile korunur.
 - **Stateless:** Uygulama veya servis, hiçbir kalıcı durum tutmaz. Her istek bağımsızdır ve
 herhangi bir geçmiş durumdan etkilenmez.
 
+> [!NOTE]
+> LXD, tam izole sistemler çalıştırmak ve stateful iş yüklerini yönetmek için daha uygundur.
+
+
+
+### Snap Paket Yöneticisi Avantajları
+- Farklı Linux dağıtımlarında aynı şekilde çalışarak LXD'yi kendi bağımlılıklarıyla paketler
+ve uyumluluk sağlar.
+- Snap paketleri otomatik güncellenmesi sayesinde LXD son sürüme sahip olur.
+- LXD geliştiricileri tarafından önerilmesi ve bu sebeple desteklenen en güncel sürümün
+Snap üzerinden elde edilmesidir.
+
+> [!TIP]
+> LXD, yalnızca Snap ile yüklenmek zorunda değildir. Başka paket yöneticileri ile yüklenilebilir.
+
+### Snap KURULUM:
+
+- Debian, Ubuntu, Kubuntu, için yazılacak komutlar.
+'''
+sudo apt update
+sudo apt install snapd
+'''
+- Versiyon güncellemek için yazılacak komut.
+'''
+sudo snap install snapd
+'''
 
