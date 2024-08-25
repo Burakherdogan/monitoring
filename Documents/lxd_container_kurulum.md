@@ -63,10 +63,10 @@ sudo apt upgrade
 ```
 sudo snap install lxd
 ```
-![Birinci İşlem](https://github.com/burakherdogan/monitoring/lxd_kurulum_1.png)
+![Birinci İşlem](https://github.com/Burakherdogan/monitoring/blob/main/Images/lxd_kurulum_1.png)
 
 - LXD ilk kurulum ayarları (Özelleştirilerek kullanılabilir.)
 ```
 sudo lxd init
 ```
-![İkinci İşlem](https://github.com/burakherdogan/monitoring/lxd_kurulum_2.png)
+![İkinci İşlem](https://github.com/Burakherdogan/monitoring/blob/main/Images/lxd_kurulum_2.png)
