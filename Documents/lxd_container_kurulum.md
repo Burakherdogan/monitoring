@@ -52,3 +52,21 @@ sudo apt install snapd
 sudo snap install snapd
 ```
 
+
+## LXD KURULUM:
+- Debian, Ubuntu, Kubuntu, için yazılacak komutlar.
+```
+sudo apt update
+sudo apt upgrade 
+```
+- Snap aracılığı ile yüklemek,
+```
+sudo snap install lxd
+```
+![Birinci İşlem](https://github.com/burakherdogan/monitoring/lxd_kurulum_1.png)
+
+- LXD ilk kurulum ayarları (Özelleştirilerek kullanılabilir.)
+```
+sudo lxd init
+```
+![İkinci İşlem](https://github.com/burakherdogan/monitoring/lxd_kurulum_2.png)
